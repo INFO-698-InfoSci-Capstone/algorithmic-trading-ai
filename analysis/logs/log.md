@@ -29,10 +29,6 @@ Fetching intraday data from yfinance is slightly slow and sometimes flaky for ce
 Make sure to modularize the functions and package the full Steps 1–4 logic cleanly, so this pipeline can run automatically every morning. Also consider caching or saving results (e.g., yesterday’s news and sentiment_df) locally or in S3 to avoid reprocessing. This will help scale better when moving toward the alert and visualization stages.
 
 
-# Weekly/Bi-Weekly Log
-
-## Prompts
-Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-activity-and-worksheet#:~:text=%22Rose%2C%20Bud%2C%20Thorn%22%20is%20a%20mindful%20design%2D,day%2C%20week%2C%20or%20month.) model:
 
 ## 🗓 Date:
 ## Week 2 – April 26, 2025
