@@ -4,7 +4,7 @@
 Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-activity-and-worksheet#:~:text=%22Rose%2C%20Bud%2C%20Thorn%22%20is%20a%20mindful%20design%2D,day%2C%20week%2C%20or%20month.) model:
 
 ## 🗓 Date:
-## Week 1 – April 14, 2025
+## Week 1 – April 11, 2025
 
 ⏱ Number of hours:
 ~18–20 hours
@@ -31,7 +31,7 @@ Make sure to modularize the functions and package the full Steps 1–4 logic cle
 
 
 ## 🗓 Date:
-## Week 2 – April 26, 2025
+## Week 2 – April 18, 2025
 
 ⏱ Number of hours:
 ~20–22 hours
