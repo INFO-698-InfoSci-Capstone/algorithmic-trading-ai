@@ -1,5 +1,13 @@
 Ticker,Mentions,Avg Sentiment Score,Dominant Sentiment
-LLY,2,0.985,negative
-COP,1,1.0,negative
-ELV,1,1.0,neutral
-HUM,1,0.989,neutral
+DIS,7,1.0,negative
+BALL,7,0.998,negative
+MOS,4,1.0,negative
+UAL,3,0.998,negative
+PM,3,0.999,negative
+AMP,3,1.0,negative
+IRM,2,1.0,negative
+NOC,1,1.0,neutral
+COP,1,1.0,neutral
+DFS,1,1.0,negative
+CARR,1,1.0,neutral
+SPGI,1,1.0,positive
