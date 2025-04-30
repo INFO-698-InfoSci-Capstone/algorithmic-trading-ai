@@ -1,13 +1,6 @@
 Ticker,Mentions,Avg Sentiment Score,Dominant Sentiment
-DIS,7,1.0,negative
-BALL,7,0.998,negative
-MOS,4,1.0,negative
-UAL,3,0.998,negative
-PM,3,0.999,negative
-AMP,3,1.0,negative
-IRM,2,1.0,negative
-NOC,1,1.0,neutral
-COP,1,1.0,neutral
-DFS,1,1.0,negative
-CARR,1,1.0,neutral
-SPGI,1,1.0,positive
+ALL,24,0.983,negative
+AMZN,2,0.994,negative
+LH,1,1.0,negative
+CRWD,1,0.998,neutral
+NUE,1,1.0,negative
