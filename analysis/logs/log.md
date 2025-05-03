@@ -60,6 +60,23 @@ Need to finalize automatic sentiment labeling (positive/negative) for better SEA
 Deployment is ready — only **final step pending** is pushing the app to Streamlit Cloud.
 Focus next week: go live and refine visualizations for multi-ticker comparison.
 
+
+
+## 🗓 Date:
+## Week 3 – April 25, 2025
+⏱ Number of hours: ~22–24 hours (Pipeline automation, Power BI visualization, Streamlit front-end)
+
+🌹 Rose – Highlight of the week:
+We successfully automated the full Stocex pipeline — it now fetches financial news daily, extracts tickers, runs sentiment analysis, and automatically selects the top 3 tickers with the highest sentiment scores for further processing. Additionally, we created Power BI visualizations to display sentiment trends and stock forecast insights, adding an extra layer of interactivity. The Streamlit front-end was also developed to show real-time sentiment, price forecasts, and SEA charts, giving us a functional dashboard ready for deployment and user testing.
+
+🌱 Bud – Looking forward to:
+We're excited to start working on our iShowcase poster for project presentation. This will include our system architecture, methodology (News → NLP → Sentiment → Forecast), and demo screenshots. We'll also refine the multi-ticker UI on Streamlit, possibly integrating a real-time signal alert feature and adding customization options (e.g., choose tickers, set sentiment threshold).
+
+🥀 Thorn – Challenges:
+Some minor issues in aligning Power BI outputs with the CSV pipeline structure. Also, automating the top-3 ticker logic required careful handling to avoid duplicate or weak-sentiment stocks. Streamlit rendering of interactive charts can lag occasionally — we may need to optimize layout and loading.
+
+💭 Additional thought:
+The automated pipeline and visual layer have now reached a stable MVP stage. Next steps include refining the poster and polishing the front-end for iShowcase. Consider adding a ticker search feature in Streamlit and a log file system to track daily pipeline results for transparency and debugging.
 ---
 
 
