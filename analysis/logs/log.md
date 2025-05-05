@@ -78,6 +78,22 @@ Some minor issues in aligning Power BI outputs with the CSV pipeline structure. 
 💭 Additional thought:
 The automated pipeline and visual layer have now reached a stable MVP stage. Next steps include refining the poster and polishing the front-end for iShowcase. Consider adding a ticker search feature in Streamlit and a log file system to track daily pipeline results for transparency and debugging.
 
+##🗓 Date:
+##Week 4 – May 2, 2025
+⏱ Number of hours: ~23–25 hours (Streamlit deployment, Power BI finalization, GitHub updates)
+
+🌹 Rose – Highlight of the week:
+We finalized and deployed the Streamlit app showcasing sentiment-based forecasting, SEA visualizations, and price trends. We also completed and published our Power BI dashboards for sentiment analysis. All code and results were uploaded to GitHub, with the project README and HTML notebook versions updated for transparency and reproducibility.
+
+🌱 Bud – Looking forward to:
+Refining the visual polish of our Streamlit app and poster for the final iShowcase presentation. We’re planning to add features like ticker search and forecast intervals. We're also considering logging pipeline results daily and enabling CSV download of signals directly from the app.
+
+🥀 Thorn – Challenges:
+While exporting and formatting the HTML notebook for GitHub, we encountered rendering inconsistencies with certain plots. Adjusting layout and responsiveness in Streamlit (especially SEA plots) required some trial and error. Power BI integration needed column remapping due to final pipeline structure changes.
+
+💭 Additional thought:
+The project has reached a stable, deployable state. The Streamlit app, GitHub repo, and Power BI dashboard are all linked and ready for demo. Final steps will focus on polishing the UI, testing signal reliability, and preparing a clear narrative for iShowcase.
+
 ---
 
 
