@@ -78,8 +78,8 @@ Some minor issues in aligning Power BI outputs with the CSV pipeline structure. 
 💭 Additional thought:
 The automated pipeline and visual layer have now reached a stable MVP stage. Next steps include refining the poster and polishing the front-end for iShowcase. Consider adding a ticker search feature in Streamlit and a log file system to track daily pipeline results for transparency and debugging.
 
-##🗓 Date:
-##Week 4 – May 2, 2025
+## 🗓 Date:
+## Week 4 – May 02, 2025
 ⏱ Number of hours: ~23–25 hours (Streamlit deployment, Power BI finalization, GitHub updates)
 
 🌹 Rose – Highlight of the week:
