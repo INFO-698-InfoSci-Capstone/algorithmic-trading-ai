@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/INFO-698-InfoSci-Capstone/algorithmic-trading-ai/main/Poster/stocex_logo.png" alt="Stocex Logo" width="250"/>
+</p>
 
 # Stocex 🧠📈  
 **AI-Powered Intraday Trading Assistant using News + TimeGPT**
@@ -45,39 +48,38 @@
 
 ---
 
-## 📦 Dependencies
+## 🌐 Streamlit Dashboard
 
-Install everything using:
+```bash
+streamlit run src/app.py
+```
+
+### Dashboard Highlights
+- 🧠 **Sentiment Overview** — histogram, top tickers, volatility-return scatter
+- 📰 **News Headlines** — filter by date and ticker
+- 🔮 **1-Hour Simulated Forecast** — based on average sentiment
+- 🤖 **AI Q&A Tab** — ask: "highest sentiment", "return of TSLA", etc.
+- 🌓 **Dark Mode** toggle for better visual comfort
+
+---
+
+## 📦 Dependencies
 
 ```bash
 pip install -r requirements.txt
-```
-
-Typical dependencies include:
-- `yfinance`
-- `transformers`
-- `spacy`
-- `requests`
-- `pandas`
-- `torch`
-
-Also run:
-
-```bash
 python -m spacy download en_core_web_sm
 ```
+
+Includes:
+- `yfinance`, `transformers`, `spacy`, `requests`, `pandas`, `torch`
 
 ---
 
 ## ▶️ Usage
 
 ```bash
-# Just run the script
 python Stocex.py
 ```
-
-That’s it — the script handles:
-- News → Sentiment → Forecast → Signal
 
 ---
 
@@ -96,13 +98,12 @@ That’s it — the script handles:
 
 ## 📜 License
 
-MIT License – free to use, modify, and share!
+Licensed under the **GNU General Public License v3.0**  
+See [LICENSE.txt](LICENSE.txt) for full details.
 
 ---
 
 ## 📬 Contact
 
-For queries or collaborations:  
-📧 **stocex.team@gmail.com**
-
+📧 **stocex.team@gmail.com**  
 > _“Let the AI read the news, so you can read the profits.”_ 💹
